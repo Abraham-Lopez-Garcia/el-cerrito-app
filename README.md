@@ -1,37 +1,37 @@
 # El Cerrito
 
-Aplicación móvil para la gestión integral de una liga de fútbol, desarrollada con Flutter y Firebase.
+Mobile application for comprehensive football league management, built with Flutter and Firebase.
 
-## Descripción
+## Description
 
-El Cerrito permite a los administradores de una liga de fútbol gestionar equipos, jugadores, jornadas y resultados de forma centralizada. El sistema genera automáticamente las tablas de posiciones y goleo, y cuenta con herramientas para la generación de material visual para redes sociales.
+El Cerrito allows football league administrators to manage teams, players, matchdays, and results from a centralized platform. The system automatically generates standings and top scorers tables, and includes tools for creating visual content for social media.
 
-## Características principales
+## Features
 
-- Registro y gestión de equipos y jugadores
-- Publicación de jornadas con fechas y resultados
-- Generación automática de tabla de posiciones y tabla de goleo
-- Bracket de liguilla interactivo
-- Descarga de tablas como imagen a la galería mediante Canvas
-- Generador de imágenes promocionales con logos de equipos, resultado y goleadores para redes sociales
-- Panel de administración para gestión completa de la liga
-- Vista pública para usuarios con resultados, próximos partidos y tablas
+- Team and player registration and management
+- Matchday scheduling with dates and results
+- Automatic standings and top scorers table generation
+- Interactive playoff bracket
+- Download standings as images to gallery using Canvas
+- Promotional image generator with team logos, match results, and top scorers for social media
+- Full admin panel for league management
+- Public view for users with results, upcoming matches, and tables
 
-## Tecnologías utilizadas
+## Tech Stack
 
-| Tecnología | Uso |
+| Technology | Usage |
 |---|---|
-| Flutter / Dart | Desarrollo de la aplicación móvil |
-| Firebase Auth | Autenticación de usuarios |
-| Firestore | Base de datos en tiempo real |
-| Firebase Storage | Almacenamiento de imágenes |
-| Google Cloud | Infraestructura y despliegue |
+| Flutter / Dart | Mobile application development |
+| Firebase Auth | User authentication |
+| Firestore | Real-time database |
+| Firebase Storage | Image storage |
+| Google Cloud | Infrastructure and deployment |
 
-## Estado del proyecto
+## Status
 
-Aplicación en proceso de publicación en Google Play Store y App Store.
+Application in the process of being published on Google Play Store and App Store.
 
-## Autor
+## Author
 
 Abraham Noel López García  
 [LinkedIn](https://www.linkedin.com/in/abraham-lopez-garcia) · [GitHub](https://github.com/Abraham-Lopez-Garcia)
