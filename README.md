@@ -1,16 +1,37 @@
-# liga_futbol_app
+# El Cerrito
 
-A new Flutter project.
+Aplicación móvil para la gestión integral de una liga de fútbol, desarrollada con Flutter y Firebase.
 
-## Getting Started
+## Descripción
 
-This project is a starting point for a Flutter application.
+El Cerrito permite a los administradores de una liga de fútbol gestionar equipos, jugadores, jornadas y resultados de forma centralizada. El sistema genera automáticamente las tablas de posiciones y goleo, y cuenta con herramientas para la generación de material visual para redes sociales.
 
-A few resources to get you started if this is your first Flutter project:
+## Características principales
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Registro y gestión de equipos y jugadores
+- Publicación de jornadas con fechas y resultados
+- Generación automática de tabla de posiciones y tabla de goleo
+- Bracket de liguilla interactivo
+- Descarga de tablas como imagen a la galería mediante Canvas
+- Generador de imágenes promocionales con logos de equipos, resultado y goleadores para redes sociales
+- Panel de administración para gestión completa de la liga
+- Vista pública para usuarios con resultados, próximos partidos y tablas
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologías utilizadas
+
+| Tecnología | Uso |
+|---|---|
+| Flutter / Dart | Desarrollo de la aplicación móvil |
+| Firebase Auth | Autenticación de usuarios |
+| Firestore | Base de datos en tiempo real |
+| Firebase Storage | Almacenamiento de imágenes |
+| Google Cloud | Infraestructura y despliegue |
+
+## Estado del proyecto
+
+Aplicación en proceso de publicación en Google Play Store y App Store.
+
+## Autor
+
+Abraham Noel López García  
+[LinkedIn](https://www.linkedin.com/in/abraham-lopez-garcia) · [GitHub](https://github.com/Abraham-Lopez-Garcia)
